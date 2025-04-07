@@ -4,7 +4,7 @@
 
 This project demonstrates the use of an **autoencoder neural network** to colorize grayscale landscape images, restoring their original color with impressive accuracy.
 
-### 📁 Dataset
+### Dataset
 
 The dataset includes:
 - **7,129** image pairs (grayscale and corresponding color)
@@ -13,7 +13,7 @@ The dataset includes:
   - `grayscale/` – input images
   - `color/` – target images
 
-### 🧠 Model Overview
+### Model Overview
 
 - **Autoencoder architecture**
   - Encoder processes grayscale input
